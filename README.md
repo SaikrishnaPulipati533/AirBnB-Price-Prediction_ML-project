@@ -1,6 +1,10 @@
 # AirBnB-Price-Prediction_ML
 
 
+To access the Case Study, please click on the link here and follow the instructions : 
+https://drive.google.com/file/d/1AKKUH9sNVVhn-q7QMYH-yT3zcOyTCepA/view
+
+
 AirBnB Price Prediction Challenge:
 Suggest the price of AirBnB listings in major U.S. cities
 
